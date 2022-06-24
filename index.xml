@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jeroen Smink Blog</title>
+    <link>https://jeroensmink.github.io/</link>
+    <description>Recent content on Jeroen Smink Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2022 15:44:49 +0200</lastBuildDate><atom:link href="https://jeroensmink.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Post</title>
+      <link>https://jeroensmink.github.io/post/my-post/</link>
+      <pubDate>Fri, 24 Jun 2022 15:44:49 +0200</pubDate>
+      
+      <guid>https://jeroensmink.github.io/post/my-post/</guid>
+      <description>This is my first post
+console.log(&amp;#34;hello world&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
